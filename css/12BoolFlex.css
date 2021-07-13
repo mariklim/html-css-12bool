@@ -7,13 +7,13 @@
     
 /* Debug */
 .debug .container{
-    background-color: tomato;
+    /* background-color: tomato;
     min-height: 50px;
-    border: 1px solid magenta;
+    border: 1px solid magenta; */
 }
 .debug [class*="col-"]{
     min-height: 50px;
-    border: 1px solid yellow;
+    border: 1px solid white;
     background-color: teal;
 }    
 /* Framework */
