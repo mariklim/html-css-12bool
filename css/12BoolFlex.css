@@ -1,0 +1,18 @@
+/* Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Debug */
+.debug .container{
+    min-height: 50px;
+    border: 1px solid magenta;
+}
+
+/* Framework */
+.container{
+    max-width: 1200px;
+    margin:0 auto;
+}
