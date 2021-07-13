@@ -75,7 +75,7 @@ flex-basis:calc((100% / 12) * 12);
 }
 }
 
-/*MD min-width 767px-991px */
+/*MD min-width 767px-max 991px */
 /* Columns */
 @media screen and (min-width:768px) and (max-width:991px){
     .col-md-1{
@@ -152,7 +152,7 @@ flex-basis:calc((100% / 12) * 12);
     }
     }
 
-/*LG max-width 992px */
+/*LG min-width 992px */
 @media screen and (min-width:992px) {
     .col-lg-1{
         flex-basis: calc((100% / 12) * 1);
