@@ -8,8 +8,13 @@
 .col-lg-2.nested-green, .col-lg-8.nested-green,
 .col-lg-6.nested-green  {
     background-color:yellowgreen;
+    border: 0px;
 }
 
 .col-lg-6.size{
     padding: 10px;
 } 
+
+section{
+    margin-bottom: 20px;
+}

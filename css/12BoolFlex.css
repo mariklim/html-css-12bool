@@ -100,3 +100,7 @@ flex-basis:calc((100% / 12) * 12);
 .col-offset-11{
     margin-left: calc((100% / 12) * 11);
 }
+
+.col-magic{
+    flex-grow: 1;
+}
