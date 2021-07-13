@@ -6,12 +6,12 @@
 }
 
 .col-lg-2.nested-green, .col-lg-8.nested-green,
-.col-lg-6.nested-green  {
+.col-lg-6.nested-green {
     background-color:yellowgreen;
     border: 0px;
 }
 
-.col-lg-6.size{
+.col-lg-6.size, .col-lg-7.size,.col-lg-5.size{
     padding: 10px;
 } 
 
