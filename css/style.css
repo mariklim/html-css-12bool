@@ -9,6 +9,14 @@
 .col-lg-6.nested-green {
     background-color:yellowgreen;
     border: 0px;
+    margin: 1px;
+}
+.col-lg-2{
+    flex-basis: calc(((100% / 12) * 2) - 4px);
+}
+
+.col-lg-6.nested-green{
+    flex-basis:calc(((100% / 12) * 6) - 4px);
 }
 
 .col-lg-6.size, .col-lg-7.size,.col-lg-5.size{
